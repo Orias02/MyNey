@@ -40,7 +40,7 @@ public class MyNey {  //Mendeklariskan kelas utama dalam program ini
                     addIncome(scanner); //Case 1 untuk memanggil metode pemasukan
                     break;
                 case 2:
-                    addExpense(scanner); //Case 2 untuk memanggil metode pengeluaran pengeluaran
+                    addExpense(scanner); //Case 2 untuk memanggil metode pengeluaran 
                     break;
                 case 3:
                     showSummary(); //Case 3 untuk memanggil metode yang menunjukkan ringkasan dari pemasukan dan pengeluaran
